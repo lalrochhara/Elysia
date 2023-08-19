@@ -26,12 +26,6 @@ requires-python = ">=3.7"
 authors = [{ name = "Famhawite Infosys", email = "hello.famhawiteinfosys@gmail.com" }]
 license = { text = "MIT" }
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.hatch.metadata]
-allow-direct-references = true
 
 [project.urls]
 homepage = "https://github.com/lalrochhara/Elysia"
