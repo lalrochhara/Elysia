@@ -1,0 +1,11 @@
+{
+  "commands_btn": "📚 Commando’s",
+  "infos_btn": "ℹ️ Over",
+  "language_btn": "🌐 Taal",
+  "add_chat_btn": "➕ Voeg toe aan een chat",
+  "private": "Hallo! Ik ben ElysiaRobot. Klik op de knoppen hieronder om meer te weten te komen over mijn functies.",
+  "start_chat": "🤖 Start een chat",
+  "group": "Hallo! Ik ben ElysiaRobot. Begin een gesprek met me om mijn functies te ontdekken.",
+  "info_page": "• ElysiaRobot\n\nVersienummer: {version_number} ({commit_hash})\n\n<a href=\"https://github.com/AmanoTeam/ElysiaRobot\">Broncode</a>\nOntwikkelaars: <a href=\"https://github.com/Famhawite-Infosys\">Famhawite Infosys</a>\n\nPartnerschap:\n » <a href=\"https://t.me/hpxlist\">HPXList - door usernein</a>\n\n©2023 - <a href=\"https://t.me/FamhawiteInfosysReal</a>",
+  "start_description": "Start de bot."
+}
