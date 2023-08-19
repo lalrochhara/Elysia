@@ -1,5 +1,5 @@
 [project]
-name = "eduu"
+name = "Elysia"
 version = "0.0.0"
 description = "A multipurpose Telegram Bot made with Pyrogram and asynchronous programming."
 readme = "README.rst"
@@ -10,8 +10,8 @@ dependencies = [
   "humanfriendly",
   "meval==2.5",
   "Pillow>=8.4.0,<11.0.0",
-  # Using Amano's Pyrogram fork
-  "pyrogram @ https://github.com/AmanoTeam/pyrogram/archive/master.zip",
+  # Using Famhawite Infosys Pyrogram fork
+  "pyrogram @ https://github.com/lalrochhara/pyrogram",
   "pytio",
   "regex",
   "speedtest-cli",
@@ -23,7 +23,7 @@ dependencies = [
 ]
 requires-python = ">=3.7"
 
-authors = [{ name = "Amano LLC", email = "contact@amanoteam.com" }]
+authors = [{ name = "Famhawite Infosys", email = "hello.famhawiteinfosys@gmail.com" }]
 license = { text = "MIT" }
 
 [build-system]
@@ -34,7 +34,7 @@ build-backend = "hatchling.build"
 allow-direct-references = true
 
 [project.urls]
-homepage = "https://github.com/AmanoTeam/EduuRobot"
+homepage = "https://github.com/lalrochhara/Elysia"
 
 [tool.ruff]
 src = ["."]
