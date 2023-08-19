@@ -1,0 +1,11 @@
+{
+  "commands_btn": "📚 פקודות",
+  "infos_btn": "ℹ️ אודות",
+  "language_btn": "🌐 שפה",
+  "add_chat_btn": "➕ הוסף לקבוצה",
+  "private": "שלום, אני ElysiaRobot. בשביל לגלות את מה שאני עושה תלחצו על הכפתורים למטה.",
+  "start_chat": "🤖 תתחילו אותי בפרטי",
+  "group": "שלום, אני ElysiaRobot, בשביל לגלות מה אני עושה תתחילו אותי בפרטי.",
+  "info_page": "• ElysiaRobot\n\nגרסת מספר: {version_number} ({commit_hash})\n\n<a href=\"https://github.com/AmanoTeam/ElysiaRobot\">קוד מקור</a>\nמפתחים: <a href=\"https://github.com/Famhawite-Infosys\">Famhawite Infosys</a>\n\nשותפים:\n » <a href=\"https://t.me/hpxlist\">HPXList - by usernein</a>\n\n©2023 - <a href=\"https://t.me/FamhawiteInfosysReal</a>",
+  "start_description": "מתחיל את הבוט."
+}
