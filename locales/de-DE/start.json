@@ -1,0 +1,11 @@
+{
+  "commands_btn": "📚 Befehle",
+  "infos_btn": "ℹ️ Über",
+  "language_btn": "🌐 Sprache",
+  "add_chat_btn": "➕ Zu einem Chat hinzufügen",
+  "private": "Hallo! Ich bin Elysia. Um mehr über meine Funktionen zu erfahren, klicken Sie auf die Schaltflächen unten.",
+  "start_chat": "🤖 Einen Chat starten",
+  "group": "Hallo! Ich bin Elysia. Um meine Funktionen zu entdecken, starten Sie ein Gespräch mit mir.",
+  "info_page": "• Elysia\n\nVersionsnummer: {version_number} ({commit_hash})\n\n<a href=\"https://github.com/AmanoTeam/Elysia\">Quellcode</a>\nEntwickler: <a href=\"https://github.com/Famhawite-Infosys\">Famhawite Infosys</a>\n\nPartnerschaften:\n » <a href=\"https://t.me/hpxlist\">HPXList - von usernein</a>\n\n©2023 - <a href=\"https://t.me/FamhawiteInfosysReal</a>",
+  "start_description": "Startet mich."
+}
