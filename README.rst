@@ -1,11 +1,11 @@
 .. raw:: html
 
-  <img src="https://i.imgur.com/RtXS5Yo.png" width="150" align="right">
+  <img src="https://i.ibb.co/yRkQVnm/203605945-beautiful-girl-with-long-hair-in-fairy-forest-3d-rendering.jpg" width="150" align="right">
 
 Elysia
 =========
 
-|License| |Codacy| |Crowdin| |Black| |Telegram Channel| |Telegram Chat|
+|License| |Codacy| |Black| |Telegram Channel| |Telegram Chat|
 
 A multipurpose Telegram Bot made with Pyrogram and asynchronous programming.
 
@@ -39,15 +39,15 @@ Note
 ----
 If you find any bugs/issues with the bot you have three options:
 
-- Create a new issue in our `GitHub <https://github.com/AmanoTeam/Elysia>`__ describing the issue.
-- Send the /bug command to `bot's <https://t.me/Elysia>`__ chat describing the issue.
+- Create a new issue in our `GitHub <https://github.com/lalrochhara/Elysia>`__ describing the issue.
+- Send the /bug command to `bot's <https://t.me/dElysia_Bot>`__ chat describing the issue.
 - If you know how to fix the issue, fork our repo and open up a pull request.
 
 
 Translations
 ------------
-Translations should be done in our `Crowdin project <https://crowdin.com/project/Elysia>`__,
-as Crowdin checks for grammar issues, provides improved context about the string being translated and so on,
+Translations should be done in our `Localazy project <https://localazy.com/p/famhawite-infosys-multi-lingual-project>`__,
+as Localazy checks for grammar issues, provides improved context about the string being translated and so on,
 thus possibly providing better quality translations. But you can also submit a pull request if you prefer translating that way.
 
 
@@ -62,17 +62,15 @@ Special thanks
 * And many other people I couldn't list here.
 
 
-© 2023 - `Amano LLC™ <https://amanoteam.com>`__
+© 2019 - 2023 - `Famhawite Infosys <https://Famhawite-Infosys-Translation-Project>`__
 
 .. Badges
 .. |Black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/psf/black
 .. |Codacy| image:: https://app.codacy.com/project/badge/Grade/7e9bffc2c3a140cf9f1e5d3c4aea0c2f
-   :target: https://www.codacy.com/gh/AmanoTeam/Elysia/dashboard
-.. |Crowdin| image:: https://badges.crowdin.net/Elysia/localized.svg
-   :target: https://crowdin.com/project/Elysia
-.. |License| image:: https://img.shields.io/github/license/AmanoTeam/Elysia
+   :target: https://www.codacy.com/gh/lalrochhara/Elysia/dashboard
+.. |License| image:: https://img.shields.io/github/license/lalrochhara/Elysia
 .. |Telegram Channel| image:: https://img.shields.io/badge/Telegram-Channel-33A8E3
-   :target: https://t.me/AmanoTeam
+   :target: https://t.me/ElysiaUpdates
 .. |Telegram Chat| image:: https://img.shields.io/badge/Telegram-Chat-33A8E3
-   :target: https://t.me/AmanoChat
+   :target: https://t.me/FamhawiteInfosysReal
