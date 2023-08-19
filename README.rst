@@ -9,6 +9,9 @@ Elysia
 
 A multipurpose Telegram Bot made with Pyrogram and asynchronous programming.
 
+The Meaning Of Elysia!
+------------
+The name Elysia is derived from the Greek word "Elysium," which refers to a paradise or a place of eternal happiness and bliss in Greek mythology. Elysium was believed to be a peaceful and beautiful afterlife where heroes and virtuous individuals would reside. Therefore, the name Elysia carries connotations of serenity, joy, and heavenly beauty.
 
 Requirements
 ------------
